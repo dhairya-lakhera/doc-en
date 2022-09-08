@@ -7,7 +7,7 @@
   <title>Introduction</title>
   
   <simpara>
-   PHP supports ten primitive types.
+   PHP supports eleven primitive types.
   </simpara>
   
   <para>
@@ -75,7 +75,7 @@
   </itemizedlist>
 
   <para>
-   And finally two special types:
+   And finally three special types:
   </para>
 
   <itemizedlist>
@@ -89,6 +89,12 @@
    <listitem>
     <simpara>
      <type>NULL</type>
+    </simpara>
+   </listitem>
+   
+    <listitem>
+    <simpara>
+     <type>mixed</type>
     </simpara>
    </listitem>
 
